@@ -1,17 +1,8 @@
-# Patika.dev Go Web Development 
-## Go Pakitası Ders Notları
+# Eğitim Programı İçerik Hazırlık
 
->   Bunu repoda, yazılım yolundaki ilerleyişimi görmek, çalışma     metodolojimi paylaşmayı hedeflemekteyim.Türkiye'nin en muhteşem platformlarından biri olan [Patika.dev](https://patika.dev)'den almış olduğum eğitimde ki video ve yazılı kaynaklara kendi çalışma ve notlarımı ekleyerek Go ile çok kısıtlı olan türkçe yazılı kaynaklara katkıda bulunmak istedim.  
->
-> **Bu Eğitim Web Arayüz Geliştirici** 
-> 
-> Web arayüz geliştirici, web siteleri ve web tabanlı uygulamalar için kullanıcı arayüzü tasarımları oluşturmak, bu tasarımları test etmek ve mevcut arayüzlerin tasarımlarıyla performansını iyileştirmekten sorumludur.
->
-> **Notlar:** 
->
-> 
->Öğrenme Yolunda
-> Herkese Başarılar Dilerim.
+
+* Notları
+
 
 ---
 
@@ -21,7 +12,7 @@
 * 03 - GIT
 * 04 - Veri Yapılar ve Algoritmalar
 * 05 - SQL 
-* 06 - GO 101
+* 06 - GOLAND
 * 07 - REST API
 * 08 - Microservices
 
